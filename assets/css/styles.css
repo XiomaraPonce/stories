@@ -4,6 +4,11 @@
 	font-family: Arial;
 }
 
+body {
+  padding: 20px; 
+  margin: 0;
+}
+
 p {
 	text-align: center;
 	background-color: LightCyan; 
