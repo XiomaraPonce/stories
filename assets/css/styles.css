@@ -5,7 +5,7 @@
 }
 
 body {
-  padding: 20px; 
+  padding: 40px; 
   margin: 0;
 }
 
@@ -14,6 +14,6 @@ p {
 	background-color: LightCyan; 
 	color: MidnightBlue; 
 	font-family: Times New Roman;
-	font-size: 18px;
+	font-size: 26px;
 	text-indent: 30px;
 }
