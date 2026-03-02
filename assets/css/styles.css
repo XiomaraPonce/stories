@@ -5,7 +5,7 @@
 }
 
 body {
-	padding: 40px, 300px, 300px, 40px; 
+	padding: 40px 300px 300px 40px; 
 	margin: 0;
 	background-image: url('../img/bg.jpg'); /* The path to your image file */
 	background-repeat: no-repeat; /* By default, images repeat to fill the space */
