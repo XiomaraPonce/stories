@@ -7,7 +7,7 @@
 body {
 	padding: 40px; 
 	margin: 0;
-	background-image: url('../assets/img/bg.jpg'); /* The path to your image file */
+	background-image: url('../img/bg.jpg'); /* The path to your image file */
 	background-repeat: no-repeat; /* By default, images repeat to fill the space */
 	background-position: center center; /* Centers the image horizontally and vertically */
 	background-size: cover; /* Ensures the image covers the entire body, maintaining its aspect ratio */
