@@ -3,3 +3,10 @@
 * {
 	font-family: Arial;
 }
+
+body {
+	align-items: center;
+	background-color: LightCyan; 
+	color: MidnightBlue; 
+	font-family: Times New Roman;
+}
